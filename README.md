@@ -1,2 +1,19 @@
 # handspeak-sign-language-recognition
-Machine learning-based sign language recognition system using flex sensors and Random Forest classification to translate hand gestures into text.
+A prototype machine-learning-based gesture recognition system using five flex-sensor inputs and Random Forest classification.
+handspeak-sign-language-recognition/
+│
+├── README.md
+│
+├── gesture_model.py
+│
+├── gesture_data.csv
+│
+├── requirements.txt
+│
+├── .gitignore
+│
+├── models/
+│   └── gesture_model.pkl
+│
+└── results/
+    └── ...
