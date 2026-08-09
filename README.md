@@ -74,6 +74,19 @@ The model is evaluated using:
 - Machine Learning
 - Flex Sensors
 - Random Forest
+- 
+- ## 📊 Model Performance
+
+The Random Forest classifier achieved **100% accuracy on the current calibrated test dataset**.
+
+The model was evaluated using:
+
+- Accuracy
+- Confusion Matrix
+- Classification Report
+- Feature Importance
+
+> Note: The current dataset is a small calibrated prototype dataset. Therefore, the 100% test accuracy should not be interpreted as proof of real-world sign-language recognition performance. A larger and more diverse dataset would be required for robust evaluation.
 
 ## 📁 Repository Structure
 
